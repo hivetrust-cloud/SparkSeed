@@ -1,1 +1,5 @@
-
+# Block the Wellspring data from ever leaving your Mac
+/Wellspring/
+personal_notes/
+*.env
+.DS_Store
